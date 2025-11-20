@@ -1,0 +1,19 @@
+<Person>
+    <name>HariKrishna</name>
+    <DOB>Aug-2</DOB>
+    <Address>
+        <Home>
+           <address-line1>Gati<address-line1>
+           <address-line2>Tarakaramanagr<address-line2>
+           <street>templeStreet</street>
+           <city>kakinada</city>
+        </Home>
+        <Office>
+           <address-line1>Ecty<address-line1>
+           <address-line2>neekardri<address-line2>
+           <street>5thCross</street>
+           <city>Banglore</city>
+        </Office>
+    </Address>
+
+
